@@ -1,0 +1,48 @@
+{
+    "name": "ImpactStory",
+    "description": "Nonprofit dedicated to increasing the impact and openness of science. Makers of @unpaywall. Tweets by @jasonpriem and @researchremix.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1429-impactstory.jpg",
+    "tags": [
+        "api not found",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/impactstory\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ImpactStory",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1429-impactstory.jpg",
+            "humanURL": "https:\/\/impactstory.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/impactstory-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/impactstory.org\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/impactstory"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ImpactStory"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/impactstory"
+        }
+    ]
+}
